@@ -1,0 +1,20 @@
+body {
+	padding: 2em;	
+	background-image: url("bg.jpg");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: scroll;
+	opacity: 0.9;
+	background-size: cover;		
+}
+.spl {
+    font-weight: 600;
+    font-size: large;
+}
+li span{
+    
+    font-weight: 600;
+}
+.container {
+    width:50%;
+}
